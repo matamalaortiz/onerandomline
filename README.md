@@ -1,6 +1,6 @@
 # onerandomline
 
-Twitter Bot made with Nodejs and Processing.
+Twitter Bot made with Node.js and Processing.
 Http://www.twitter.com/onerandomline
 
 
