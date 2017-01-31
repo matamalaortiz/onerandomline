@@ -1,4 +1,4 @@
-# onerandomline bot.
+# onerandomline –
 
 Twitter Bot made with Node.js and Processing.
 Http://www.twitter.com/onerandomline
